@@ -1,0 +1,3 @@
+# Never commit — maps anonymised project slugs back to real paths
+PRIVATE-mapping-do-not-publish.json
+**/PRIVATE-*

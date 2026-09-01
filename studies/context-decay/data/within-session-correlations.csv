@@ -1,0 +1,7 @@
+proxy,n_observations,n_sessions,within_session_r,p_value,verdict,direction
+tool_error_rate,21208,29,-0.01653,0.016118013966244817,SIGNIFICANT,better
+bash_error_rate,9738,24,-0.02424,0.016886450733942404,SIGNIFICANT,better
+edit_retry_rate,5186,21,-0.05451,8.860503948493944e-05,SIGNIFICANT,better
+user_correction_rate,858,7,-0.06951,0.042527741030488224,SIGNIFICANT,better
+output_tokens_per_turn,20487,29,0.01397,0.04564787515562897,SIGNIFICANT,longer
+reread_rate,1985,14,-0.06519,0.003776461730161206,SIGNIFICANT,better

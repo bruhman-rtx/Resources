@@ -1,0 +1,7 @@
+proxy,n,pearson_r_vs_context_tokens,p_value,partial_r_controlling_turn_index,partial_p,verdict,direction
+tool_error_rate,21405,-0.02021,0.0031125557253669535,-0.0207,0.0024622325573281493,SIGNIFICANT,better w/ ctx
+bash_error_rate,9862,-0.02228,0.026954968269538974,-0.02285,0.023277786424520653,SIGNIFICANT,better w/ ctx
+edit_retry_rate,5294,-0.09277,1.3505365987307118e-11,-0.0905,4.21672203065046e-11,SIGNIFICANT,better w/ ctx
+user_correction_rate,1909,-0.10707,2.7510790188142796e-06,-0.11319,7.1607196437693e-07,SIGNIFICANT,better w/ ctx
+output_tokens_per_turn,20668,0.03853,2.997201829979669e-08,0.03787,5.141285117590475e-08,SIGNIFICANT,longer w/ ctx
+reread_rate,2171,-0.14509,1.1021215595922134e-11,-0.14022,5.363135290859762e-11,SIGNIFICANT,better w/ ctx
